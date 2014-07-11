@@ -1,4 +1,3 @@
-##setwd("~/Documents/Data Science and Statistics/Coursera/Exploratory Data Analysis 4/Project1")
 ## Load full dataset
 pwr_consump <- read.table("household_power_consumption.txt", header = TRUE, sep = ";", , na.strings = "?", stringsAsFactor = FALSE)
                              
